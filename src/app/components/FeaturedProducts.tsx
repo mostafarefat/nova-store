@@ -24,7 +24,7 @@ const products: Product[] = [
     id: 3,
     title: "ETHEREAL PEARL SET",
     price: "655 EGP",
-    image: "/images/Image4.png",
+    image: "/images/image4.png",
   },
   {
     id: 4,
@@ -36,13 +36,13 @@ const products: Product[] = [
     id: 5,
     title: "STARLIGHT TISSOT MAN SET",
     price: "1200 EGP",
-    image: "/images/Image3.png",
+    image: "/images/image3.png",
   },
   {
     id: 6,
     title: "CELESTIAL BRACELET SET",
     price: "180 EGP",
-    image: "/images/Image5.png",
+    image: "/images/image5.png",
   },
 ];
 
