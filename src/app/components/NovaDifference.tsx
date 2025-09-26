@@ -22,7 +22,7 @@ export default function NovaDifference() {
               src={"/images/Arrow1.svg"}
               alt="icon"
               width={15}
-              height={0}
+              height={15}
               className="mb-7"
             />
           </div>
