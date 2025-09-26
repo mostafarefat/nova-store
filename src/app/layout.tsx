@@ -8,7 +8,7 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  title: "My Website",
+  title: "NOVA STORE",
   description: "Using Lora font with Next.js & Tailwind",
 };
 
